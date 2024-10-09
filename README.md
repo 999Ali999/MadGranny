@@ -6,3 +6,5 @@
 
 
 https://github.com/999Ali999/MadGranny/assets/127804196/e749f533-6664-47a2-b3fb-031b39f74784
+
+![AppSummary](https://github.com/JuliaVan28/MadGranny/assets/49408479/ec398f48-7b31-4539-bb99-fb98920a642f)
