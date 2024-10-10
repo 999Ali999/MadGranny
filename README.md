@@ -1,9 +1,33 @@
-# MadGranny
+# 🎮 MadGranny
 
-### One of the many challenges in the Apple Developer Academy 2023/2024, 
+### A Challenging Project from the Apple Developer Academy 2023/2024
 
-### Please download and take a look at the Keynote that we presented for this Project for more information
+MadGranny is a fully functional game developed in **SwiftUI** using **SpriteKit** and **GameplayKit**. The project was part of a high-intensity challenge at the Apple Developer Academy, where we had just 4 days to create a game from scratch under immense pressure.
 
-#### A fully functional SwiftUI game using SpriteKit. Lead a team of 4 with 2 Coders (me being one with https://github.com/JuliaVan28) and 2 designers to create a full game from ground up over a course of only 4 days for an Under Pressure Development, over 50 other developers tested the game we used their feedbacks to improve the game even further, at the end we presented our journey for this project in a Keynote to other Game development teams and Academy Mentors
+[Watch our presentation here](https://github.com/999Ali999/MadGranny/assets/127804196/e749f533-6664-47a2-b3fb-031b39f74784)
 
-https://github.com/999Ali999/MadGranny/assets/127804196/e749f533-6664-47a2-b3fb-031b39f74784
+---
+
+## 🛠️ Project Overview
+
+- **Team:**  
+  - 2 Coders: [Ali](https://github.com/999Ali999) & [Yuliia](https://github.com/JuliaVan28)  
+  - 2 Designers
+- **Tech Stack:**  
+  - **SwiftUI**  
+  - **SpriteKit**
+  - **GameplayKit**
+- **Duration:** 4 days  
+- **Testing:** Over 50 developers tested the game, providing invaluable feedback that we incorporated to improve the game further.
+
+## 📊 Project Presentation
+
+For a detailed overview of our development journey and insights into the project, please download and view the **Keynote presentation** we created for this project. We presented our work to other game development teams and Academy Mentors, sharing the challenges, iterations, and the final product.
+
+---
+
+### 📂 [Download Keynote Presentation](https://github.com/999Ali999/MadGranny/assets/127804196/e749f533-6664-47a2-b3fb-031b39f74784)
+
+---
+
+This project was a testament to teamwork, quick iteration, and game development skills, showcasing what can be achieved in a short time under pressure.
