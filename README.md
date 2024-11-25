@@ -6,8 +6,6 @@ MadGranny is a fully functional game developed in **SwiftUI** using **SpriteKit*
 
 [Watch our presentation here](https://github.com/999Ali999/MadGranny/assets/127804196/e749f533-6664-47a2-b3fb-031b39f74784)
 
----
-
 ## 🛠️ Project Overview
 
 - **Team:**  
