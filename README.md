@@ -2,7 +2,7 @@
 
 ### A Challenging Project from the Apple Developer Academy 2023/2024
 
-MadGranny is a fully functional game developed in **SwiftUI** using **SpriteKit** and **GameplayKit**. The project was part of a high-intensity challenge at the Apple Developer Academy, where we had just 4 days to create a game from scratch under immense pressure.
+MadGranny is a fully functional game developed in **SwiftUI** using **SpriteKit** and **GameplayKit**. The project was part of a high-intensity challenge at the Apple Developer Academy, where we had just 4 days to create a game from scratch under time pressure.
 
 [Watch our presentation here](https://github.com/999Ali999/MadGranny/assets/127804196/e749f533-6664-47a2-b3fb-031b39f74784)
 
